@@ -1,0 +1,5 @@
+dataset==1.6.2
+torch==2.3.1
+tqdm==4.66.5
+transformers==4.44.0
+deepspeed==0.15.3sa
